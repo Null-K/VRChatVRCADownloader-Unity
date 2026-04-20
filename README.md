@@ -4,9 +4,14 @@
 
 ---
 
-:)
+# VRChat VRCA Downloader - Unity
+**VRChat VRCA Downloader - Unity** 是一个用于获取并下载你本人 VRChat 账号下 Avatar (.vrca) 文件的 Unity 插件。  
+
+该工具基于 VRChat SDK 提供的接口获取模型列表，仅用于资源恢复场景。  
+整个过程不会存储或上传你的账号信息，所有操作均在本地完成。
 
 ---
+
 # 免责声明
 
 本工具按“原样”提供，仅用于学习和个人资源恢复用途。
