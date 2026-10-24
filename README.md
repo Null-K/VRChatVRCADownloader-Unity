@@ -23,11 +23,16 @@
 该工具基于 VRChat SDK 提供的接口获取模型列表，仅用于资源恢复场景。  
 整个过程不会存储或上传你的账号信息，所有操作均在本地完成。
 
-安装后打开 `Tools -> VRCA Downloader`
-
 <p align="center">
   <img src="image.png" width="800">
 </p>
+
+## 使用教程
+使用前需要登录 VRChat SDK 并打开 `Content Manager` 页面加载一遍模型列表。
+
+1. 打开 [Github Releases](https://github.com/Null-K/VRChatVRCADownloader-Unity/releases) 页面下载 `.unitypackage` 文件。
+2. 双击下载的文件，在 Unity 中安装。
+3. 安装后打开 `Tools -> VRCA Downloader` 即可使用。
 
 ## 免责声明
 
